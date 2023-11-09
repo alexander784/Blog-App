@@ -1,6 +1,8 @@
-import NavBar from './NavBar';
+import NavBar from '../NavBar';
 import Home from './Home';
-import Index from './index';
+import Index from '../index';
+import React from 'react';
+
 function App() {
   return (
     <div className='App'>
